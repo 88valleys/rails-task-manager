@@ -1,0 +1,8 @@
+<div class="container p-3">
+  <h1>My tasks</h1>
+  <ul>
+    <% @tasks.each do |task| %>
+      <li><i class="fa-regular fa-square-check mx-1"></i><%= link_to task.title, task_path(task)%></li>
+    <% end %>
+  </ul>
+</div>

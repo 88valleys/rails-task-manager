@@ -1,0 +1,12 @@
+=> 
+[32m#<Task:0x00007fc97b619b48[0m
+ id: [34m[1m2[0m,
+ title:
+  [31m[1m"[0m[31m[24/06/29] Grocery purchases[0m[31m[1m"[0m,
+ details:
+  [31m[1m"[0m[31mBuy bread from Kitchen Court[0m[31m[1m"[0m,
+ completed: [36m[1mfalse[0m,
+ created_at:
+  Sat, 29 Jun 2024 04:33:55.994516000 UTC +00:00,
+ updated_at:
+  Sat, 29 Jun 2024 04:33:55.994516000 UTC +00:00[32m>[0m
